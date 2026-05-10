@@ -52,5 +52,5 @@ python -m streamlit run app.py
 - Joblib
 - Matplotlib
 
-## 🌐 Demo
+## 🌐 Demo Streamlit
 [Titanic Survival Predictor](https://advanced-assignments-4-5-j4vnwgwcwf2zhgqc7kfibb.streamlit.app/)
